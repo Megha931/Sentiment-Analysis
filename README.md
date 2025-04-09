@@ -12,17 +12,17 @@ Text cleaning and vectorization with NLTK, SpaCy, and Textacy
 
 Implementation of:
 
-Naïve Bayes Classifier
+      Naïve Bayes Classifier
 
-Lexicon-based Sentiment Analysis
+      Lexicon-based Sentiment Analysis
 
-Linear Support Vector Machine (SVM)
+      Linear Support Vector Machine (SVM)
 
-Pretrained BERT (Transformer-based model)
+      Pretrained BERT (Transformer-based model)
 
 Evaluation of models based on accuracy, precision, recall, and F1 score
 
-33 🛠️ Technologies Used
+## 🛠️ Technologies Used
 Languages: Python
 
 IDE: Jupyter Notebook
